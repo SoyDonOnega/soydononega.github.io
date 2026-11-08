@@ -1,0 +1,9 @@
+:root{color-scheme:light}
+body{margin:0;background:#FAFAF8;color:#0A0A0A;font:16px/1.6 Inter,Helvetica,Arial,sans-serif}
+main{max-width:640px;margin:0 auto;padding:64px 16px}
+h1{font-size:28px;font-weight:600;margin:0 0 24px}
+h2{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#666;margin:40px 0 8px;font-weight:600}
+hr{border:0;border-top:1px solid #CCCCCC;margin:32px 0}
+a{color:#0A0A0A}
+p,li{color:#0A0A0A}
+small{color:#666}
